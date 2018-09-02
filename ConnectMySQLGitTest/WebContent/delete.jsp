@@ -14,7 +14,7 @@
 	</form>
 	<hr>
 	<%
-		//获取输入的学生姓名，如果没有输入，则默认为*
+		//获取输入的学生姓名，如果没有输入，则默认为*测试测试
 		request.setCharacterEncoding("utf-8");	
 		String id = request.getParameter("id");
 	%>
