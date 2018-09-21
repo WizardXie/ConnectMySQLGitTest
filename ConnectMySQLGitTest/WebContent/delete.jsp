@@ -58,10 +58,10 @@
 	<table border=1>
 		<caption>学生信息表</caption>
 		<tr>
-			<th>学号</th>
-			<th>姓名</th>
-			<th>性别</th>
-			<th>系部</th>
+			<th>学号Fix</th>
+			<th>姓名Fix</th>
+			<th>性别Fix</th>
+			<th>系部Fix</th>
 		</tr>
 		<%
 			//输出信息		
